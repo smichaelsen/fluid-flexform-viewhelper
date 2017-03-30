@@ -1,0 +1,9 @@
+{
+	"name": "smichaelsen/fluid-flexform-viewhelper",
+	"description": "FlexformViewHelper for Fluid",
+	"autoload": {
+		"psr-4": {
+			"Smichaelsen\\FluidFlexformViewHelper\\": "Classes/"
+		}
+	}
+}
